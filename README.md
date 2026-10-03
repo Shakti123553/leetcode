@@ -24,12 +24,14 @@ DSA
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Shakti123553/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0441-arranging-coins](https://github.com/Shakti123553/leetcode/tree/main/0441-arranging-coins/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shakti123553/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Shakti123553/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Shakti123553/leetcode/tree/main/0035-search-insert-position/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
